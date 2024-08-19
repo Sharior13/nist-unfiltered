@@ -11,7 +11,7 @@ html {
   scroll-behavior: smooth;
 }
 body{
-  background-color: #CF9FFF;
+  background-color: #90E0EF;
 }
 a{
     text-decoration: none;
@@ -30,7 +30,7 @@ a{
   align-items: center;
   justify-content: space-between;
   z-index: 1;
-  background: #FFF8DC;
+  background-color: #0077b6;
   box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
   padding: 1.4rem;
 }
@@ -38,19 +38,22 @@ a{
   font-size: 1.9rem;
   padding-left: .5rem;
   text-decoration: none;
+  color: #FFFFFF;
+}
+#navbar{
+  background-color: #0077b6;
 }
 .header .navbar a{
   margin: 0 1rem;
   font-size: 1.5rem;
   text-decoration: none;
+  color: #FFFFFF;
 }
 #menu-btn {
   font-size: 3rem;
   cursor: pointer;
   display: none;
-}
-.nav-item:hover{
-  color: #000000;
+  color: #FFFFFF;
 }
 
 
@@ -63,7 +66,7 @@ a{
   padding-bottom: 3px;
   padding-top: 3px;
   width: 100%;
-  background-color: #FFF8DC;
+  background-color: #caf0f8;
 }
 .footer a:hover{
   color:#000000;
@@ -85,9 +88,9 @@ a{
   resize:vertical;
   padding:10px;
   border-radius: 5px;
-  outline-color:#800080;
+  outline-color:#6a08eb;
   background-color: #FFFFFF;
-  border: 2px solid #800080;
+  border: 2px solid #0044ff;
   height:10rem;
   width: 40rem;
   overflow-wrap: break-word;
@@ -98,7 +101,7 @@ a{
   outline:none;
 }
 .container-index{
-  background-color:#9c27b0;
+  background-color:	#008081;
   color:#FFFFFF;
 }
 .container-index a{
@@ -130,17 +133,17 @@ color:#FFFFFF;
 }
 
 .last-confession-card:nth-child(1) {
-  --card-bg-color: #9c27b0; 
+  --card-bg-color: #0F52BA; 
   --card-text-color: #FFFFFF; 
 }
 
 .last-confession-card:nth-child(2) {
-  --card-bg-color: #a25bc0; 
+  --card-bg-color: #0080FF; 
   --card-text-color: #F7F7F7;
 }
 
 .last-confession-card:nth-child(3) {
-  --card-bg-color: #c68ae5; 
+  --card-bg-color: #00BECC; 
   --card-text-color: #000000; 
 }
 .last-confession-card h6{
@@ -152,7 +155,7 @@ color:#FFFFFF;
   color:#e9e7e7;
 }
 .read-more-btn {
-  background-color: #4CAF50;
+  background-color: #4F97A3;
   color: #fff;
   padding: 10px 20px;
   border: none;
@@ -160,14 +163,14 @@ color:#FFFFFF;
   cursor: pointer;
 }
 .read-more-btn:hover {
-  background-color: #3e8e41;
+  background-color: #2f00ff;
 }
 .button{
     font-size: large;
     height:50px;
     width:20rem;
     color:#FFFFFF;
-    background:#9c57b0;
+    background:#4F97A3;
     border: none;
     cursor: pointer;
 }
@@ -330,7 +333,7 @@ background:#5D3FD3;
   padding: 20px;
   border: 2px solid #5b3b8c;
   border-radius: 5px;
-  background-color: #3f3f51;
+  background-color: #1D2951;
   max-width: 600px;
   text-align: center;
 }

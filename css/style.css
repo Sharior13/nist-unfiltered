@@ -133,18 +133,18 @@ color:#FFFFFF;
 }
 
 .last-confession-card:nth-child(1) {
-  --card-bg-color: #0F52BA; 
+  --card-bg-color: #025043; 
   --card-text-color: #FFFFFF; 
 }
 
 .last-confession-card:nth-child(2) {
-  --card-bg-color: #0080FF; 
+  --card-bg-color: #037c6e; 
   --card-text-color: #F7F7F7;
 }
 
 .last-confession-card:nth-child(3) {
-  --card-bg-color: #00BECC; 
-  --card-text-color: #000000; 
+  --card-bg-color: #05998c; 
+  --card-text-color: #FFFFFF; 
 }
 .last-confession-card h6{
   font-size: 1.4rem;

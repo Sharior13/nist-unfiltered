@@ -1461,10 +1461,10 @@ mongodb@6.7.0:
     bson "^6.7.0"
     mongodb-connection-string-url "^3.0.0"
 
-mongoose@^8.5.2:
-  version "8.5.2"
-  resolved "https://registry.npmjs.org/mongoose/-/mongoose-8.5.2.tgz"
-  integrity sha512-GZB4rHMdYfGatV+23IpCrqFbyCOjCNOHXgWbirr92KRwTEncBrtW3kgU9vmpKjsGf7nMmnAy06SwWUv1vhDkSg==
+mongoose@^8.5.3:
+  version "8.5.3"
+  resolved "https://registry.npmjs.org/mongoose/-/mongoose-8.5.3.tgz"
+  integrity sha512-OubSDbsAclDFGHjV82MsKyIGQWFc42Ot1l+0dhRS6U9xODM7rm/ES/WpOQd8Ds9j0Mx8QzxZtrSCnBh6o9wUqw==
   dependencies:
     bson "^6.7.0"
     kareem "2.6.3"

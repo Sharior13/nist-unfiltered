@@ -69,7 +69,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 mongoose
   .connect(
-    "mongodb+srv://soilbhai:saurav@soil.zvhk0qg.mongodb.net/?retryWrites=true&w=majority&appName=soil",
+    "",
     { useNewUrlParser: true, useUnifiedTopology: true },
   )
   .then(() => console.log("MongoDB Connected"))
